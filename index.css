@@ -46,6 +46,7 @@ h1 {
   margin-bottom: 1rem;
   margin-left: 1rem;
   margin-right: 1rem;
+  max-width: 35rem;
 }
 a {
   text-decoration: none;
@@ -69,6 +70,7 @@ footer {
   .card2 {
     display: inline-block;
     margin: 0 4rem;
+    min-width: 30rem;
   }
   .container {
     display: flex;
